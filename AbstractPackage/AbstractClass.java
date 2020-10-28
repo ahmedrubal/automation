@@ -7,6 +7,8 @@ public abstract class AbstractClass {//abstract class must have to use keywords 
 
 
     public static void main(String[] args) {
+        i am number one
+          
 
     }
 }
